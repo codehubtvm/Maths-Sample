@@ -1,4 +1,3 @@
-[graph_theory_review_with_answers.html](https://github.com/user-attachments/files/25742842/graph_theory_review_with_answers.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
